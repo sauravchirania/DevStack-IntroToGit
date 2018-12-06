@@ -1,6 +1,6 @@
 # DevStack-IntroToGit
 
-This repository is meant to be used to introduce students to the git workflow. This repository is meant to be used to introduce students to the git workflow. It was used during DevStack's "Introduction to Git class" on 2nd November, 2018. DevStack is an initiative by Computer Science and Engineering Society (CSES), Indian Institute of Technology (Indian School of Mines) Dhanbad. Visit CSES - https://www.facebook.com/CSESISMDhanbad/
+This repository is meant to be used to introduce students to the git workflow. It was used during DevStack's "Introduction to Git class" on 2nd November, 2018. DevStack is an initiative by Computer Science and Engineering Society (CSES), Indian Institute of Technology (Indian School of Mines) Dhanbad. Visit CSES - https://www.facebook.com/CSESISMDhanbad/
 
 Please follow the these steps - 
 
